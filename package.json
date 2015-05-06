@@ -1,0 +1,25 @@
+{
+  "name": "has-yield",
+  "version": "1.0.0",
+  "description": "Tells you whether the version of node you are running on supports the yield keyword and generators",
+  "main": "has-yield.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccheever/has-yield.git"
+  },
+  "keywords": [
+    "yield-keyword",
+    "generators",
+    "introspection",
+    "capability"
+  ],
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccheever/has-yield/issues"
+  },
+  "homepage": "https://github.com/ccheever/has-yield#readme"
+}
